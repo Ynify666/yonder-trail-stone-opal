@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Для Каданес",
+      "hasCanvas": false,
+      "bodyTextLen": 42,
+      "bodyTextHash": "8630cf3a0e0296b010af4fe4474c7c5404cab9f11a572e869fc1399c8325a58c",
+      "bodyTextPrefix": "личное Для Каданес Каданес нажми на печать",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Для Каданес",
+      "hasCanvas": false,
+      "bodyTextLen": 42,
+      "bodyTextHash": "8630cf3a0e0296b010af4fe4474c7c5404cab9f11a572e869fc1399c8325a58c",
+      "bodyTextPrefix": "личное Для Каданес Каданес нажми на печать",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
